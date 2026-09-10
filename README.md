@@ -72,7 +72,3 @@ No build step or dependencies are required.
 - Test across a wider range of devices and browsers with assistive technologies.
 - Add subtle motion and reduced-motion support for a more polished experience.
 
-## Submission links
-
-- **Source code:** This repository / project folder
-- **Live deployment:** Add deployment URL here after publishing to GitHub Pages, Netlify, or Vercel.
